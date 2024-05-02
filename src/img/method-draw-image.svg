@@ -1,0 +1,12 @@
+<svg width="434" height="264" xmlns="http://www.w3.org/2000/svg" class="ionicon">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="266" width="436" y="-1" x="-1"/>
+ </g>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path stroke-width="32" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" id="svg_1" fill="none" d="m131.85714,243l-112.85714,-112l112.85714,-112m169.28571,224l112.85714,-112l-112.85714,-112"/>
+  <text y="252.535096" xml:space="preserve" x="241.948822" transform="matrix(8.103589999999997,0,0,8.2727736578536,-1750.16,-1873.8405150786928) " text-anchor="middle" stroke-width="0" stroke="#000000" id="svg_3" font-weight="bold" font-size="29" font-family="Cursive" fill="#007fff">S</text>
+ </g>
+</svg>
